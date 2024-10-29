@@ -1,0 +1,6 @@
+#python==3.11.0
+uvicorn==0.30.6
+fastapi==0.112.2
+python-dotenv==1.0.1
+langchain_core==0.2.34
+langchain-openai==0.1.22
